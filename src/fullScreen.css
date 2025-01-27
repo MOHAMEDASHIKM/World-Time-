@@ -1,0 +1,17 @@
+#full-screen-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+  }
+  
+  #full-screen-body h1, 
+  #full-screen-body h2, 
+  #full-screen-body h3 {
+    margin: 10px 0;
+  }
+  
